@@ -1,0 +1,8 @@
+name = input("inter your name:")
+age = input("inter your age:")
+print("Hello MR." + name + " you are " + age + " years old")
+
+num1 = input("enter the number:")
+num2 = input("enter the number:")
+result = float(num1) + float(num2)
+print(result)
